@@ -1,0 +1,9 @@
+.ubicar{
+    display: flex;
+   flex-direction: column;
+    min-height: 100vh;
+    align-content: space-between;
+}
+main{
+    flex-grow: 1;
+}
